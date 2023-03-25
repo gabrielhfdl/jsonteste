@@ -1,0 +1,84 @@
+{
+    "eventos": [
+        {
+            "nome": "Show do Coldplay",
+            "local": "Estádio da Ressacada",
+            "data": "2023-08-12",
+            "hora": "20:00",
+            "latitude": -27.584201,
+            "longitude": -48.523167,
+            "valor_ingresso": 250.00,
+            "telefone": "(48) 5555-5555",
+            "email": "contato@coldplay.com",
+            "imagem": "https://www.coldplay.com/images/show.jpg",
+            "redes_sociais": {
+                "facebook": "https://www.facebook.com/coldplay",
+                "instagram": "https://www.instagram.com/coldplay"
+            }
+        },
+        {
+            "nome": "Festa da Castanha",
+            "local": "Praça da Matriz, Castanhal",
+            "data": "2023-08-05",
+            "horario": "20:00",
+            "latitude": -1.294654,
+            "longitude": -47.928128,
+            "valor_ingresso": 15.0,
+            "telefone_contato": "(91) 98888-8888",
+            "email_contato": "contato@festadacastanha.com.br",
+            "imagem": "https://www.exemplo.com.br/imagem2.jpg",
+            "redes_sociais": {
+                "instagram": "https://www.instagram.com/festadacastanha",
+                "facebook": "https://www.facebook.com/festadacastanha"
+            }
+        },
+        {
+            "nome": "Exposição de arte moderna",
+            "local": "Museu de Arte de Santa Catarina",
+            "data": "2023-07-20",
+            "hora": "10:00",
+            "latitude": -27.583406,
+            "longitude": -48.531265,
+            "valor_ingresso": 30.00,
+            "telefone": "(48) 5555-5555",
+            "email": "contato@masc.sc.gov.br",
+            "imagem": "https://www.masc.sc.gov.br/images/exhibition.jpg",
+            "redes_sociais": {
+                "facebook": "https://www.facebook.com/masc",
+                "instagram": "https://www.instagram.com/masc"
+            }
+        },
+        {
+            "nome": "Festival de Jazz de Florianópolis",
+            "local": "Teatro Ademir Rosa",
+            "data": "2023-10-05",
+            "hora": "19:00",
+            "latitude": -27.595210,
+            "longitude": -48.548956,
+            "valor_ingresso": 80.00,
+            "telefone": "(48) 5555-5555",
+            "email": "contato@floripa.jazz",
+            "imagem": "https://www.floripa.jazz/images/festival.jpg",
+            "redes_sociais": {
+                "facebook": "https://www.facebook.com/floripajazz",
+                "instagram": "https://www.instagram.com/floripa.jazz"
+            }
+        },
+        {
+            "nome": "Feira de Tecnologia e Inovação",
+            "local": "Centro de Eventos de Florianópolis",
+            "data": "2023-09-15",
+            "hora": "08:00",
+            "latitude": -27.603879,
+            "longitude": -48.523271,
+            "valor_ingresso": 50.00,
+            "telefone": "(48) 5555-5555",
+            "email": "contato@feiratec.com",
+            "imagem": "https://www.feiratec.com/images/feira.jpg",
+            "redes_sociais": {
+                "facebook": "https://www.facebook.com/feiratec",
+                "instagram": "https://www.instagram.com/feiratec"
+            }
+        }
+    ]
+}
