@@ -1,7 +1,7 @@
 {
     "eventos": [
         {
-            "nome": "Show do Coldplay",
+            "nome": "Show do Dazaranha",
             "local": "Estádio da Ressacada",
             "data": "2023-08-12",
             "horario": "20:00",
@@ -10,7 +10,7 @@
             "valor_ingresso": 250.00,
             "telefone": "(48) 5555-5555",
             "email": "contato@coldplay.com",
-            "imagem": "https://www.coldplay.com/images/show.jpg",
+            "imagem": "https://informefloripa.com/wp-content/uploads/2022/10/DAZA-e1664711966195.jpg",
             "redes_sociais": {
                 "facebook": "https://www.facebook.com/coldplay",
                 "instagram": "https://www.instagram.com/coldplay"
